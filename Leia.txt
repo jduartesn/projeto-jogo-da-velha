@@ -1,9 +1,0 @@
-Olá! Tudo bem?
-Para executar ou modificar o projeto, verifique os requisitos abaixo:
-
-- Editor de texto - Notepad ++ ou Visual Studio
-- Navegador - Google Chrome, Edge ou Firefox
-
-Pronto! :)
-
-
